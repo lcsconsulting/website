@@ -389,7 +389,7 @@ a {
 /*---------------*/
 
 figure.effect-bubba {
-  background: #069;
+  background: rgb(72, 134, 164);
 }
 
 figure.effect-bubba img {
@@ -431,7 +431,7 @@ figure.effect-bubba figcaption::after {
 
 figure.effect-bubba h2 {
   font-size: 1.5rem;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   opacity: 0;
   -webkit-transition: -webkit-transform 0.35s;
   transition: transform 0.35s;
